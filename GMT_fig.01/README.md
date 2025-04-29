@@ -32,4 +32,4 @@ gmt begin Figure_01(a)_Taiwan png
 gmt end show
 ```
 
-![](./Figure_01(a)_Taiwan.png)
+<img src="./Figure_01(a)_Taiwan.png" width="33%" alt="Taiwan Figure">
