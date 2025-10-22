@@ -32,4 +32,5 @@ gmt begin Figure_01(a)_Taiwan png
 gmt end show
 ```
 
-<img src="./Figure_01(a)_Taiwan.png" width="33%" alt="Taiwan Figure">
+<img src="./Figure_1(a)_Taiwan.png" width="33%" alt="Taiwan Figure">
+
