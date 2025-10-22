@@ -2,4 +2,6 @@
 
 #### Deep quantile regression for growth and maturation reaction norms
 
-Waiting for our manuscript to be accepted. Excited for it! 🎉
+Our manuscript has accepted by __Methods in Ecology and Evolution__. Excited for it! 🎉
+
+![](./Figs/Figure_1/Figure_1/png)
